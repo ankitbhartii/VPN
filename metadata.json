@@ -1,0 +1,6 @@
+{
+  "name": "ProtonVPN Web — Android Client Clone & REA Dissection",
+  "description": "Single-page ProtonVPN web application faithfully dissected from ProtonVPN/android-app using REA methodology, featuring an interactive world map, Secure Core multi-hop routing, NetShield DNS filtering, custom profiles, split tunneling, and live IP/latency checks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
